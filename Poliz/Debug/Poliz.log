@@ -1,0 +1,9 @@
+﻿  Arithmetic.cpp
+  MyForm.cpp
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\MyForm.cpp(7,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  TPoliz.cpp
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\TPoliz.cpp(9,22): warning C4018: '>=': signed/unsigned mismatch
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Arithmetic.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Poliz.vcxproj -> C:\Users\AndrewS\Desktop\poliz_form\Debug\Poliz.exe

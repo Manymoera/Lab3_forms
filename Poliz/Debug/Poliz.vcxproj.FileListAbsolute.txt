@@ -1,0 +1,8 @@
+C:\Users\AndrewS\Desktop\Poliz_laba-master\Poliz\Debug\Poliz.vcxproj.AssemblyReference.cache
+C:\Users\AndrewS\Desktop\Poliz_laba-master\Poliz\Debug\Poliz.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewS\Desktop\Poliz_laba-master\Poliz\Debug\Poliz.MyForm.resources
+C:\Users\AndrewS\Desktop\Poliz_laba-master\Poliz\Debug\Poliz.vcxproj.GenerateResource.cache
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\Debug\Poliz.vcxproj.AssemblyReference.cache
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\Debug\Poliz.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\Debug\Poliz.MyForm.resources
+C:\Users\AndrewS\Desktop\poliz_form\Poliz\Debug\Poliz.vcxproj.GenerateResource.cache
